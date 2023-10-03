@@ -1,2 +1,2 @@
 #!/bin/bash
-declare global BEST="School"
+export BEST="School"
